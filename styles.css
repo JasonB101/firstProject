@@ -1,0 +1,75 @@
+body {
+    background-color: gainsboro;
+}
+
+#mainDiv {
+    height: 400px;
+    width: 800px;
+    background: tan;
+    line-height: 100px;
+    text-align: center;
+    position: fixed;
+    border-radius: 25px;
+    top: 50%;
+    left: 50%;
+    margin: -200px 0 0 -400px;
+}
+
+#mainH1 {
+    color: blue;
+    font-family: Times New Roman, Times, sans-serif;
+    margin-top: -30px;
+    font-size: 50px;
+}
+
+#score {
+    color: white;
+    font-family: Comic Sans MS, cursive, sans-serif;
+    margin-top: -15px;
+    font-size: 15px;
+}
+
+#TheCar {
+    height: 50%;
+    width: 50%;
+    margin-top: -80px;
+    margin-left: 40px;
+    position: relative;
+    left: 0px;
+}
+
+#TheButton {
+    height: 75px;
+    width: 200px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    border-radius: 15px;
+    background-color: red;
+    color: white;
+    padding: 20px 40px;
+    text-align: center;
+    font-size: 25px;
+    margin: 100px 0 0 -98px;
+}
+#Faster {
+    height: 30px;
+    width: 30px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-left: -80px;
+}
+#Slower {
+    height: 30px;
+    width: 30px;
+    border-radius: 5px;
+    background-color: red;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 50px;
+}
+
